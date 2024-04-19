@@ -42,10 +42,10 @@ To get started with this project, follow these steps:
 - **`package.json`**: Configuration file for npm dependencies and scripts.
 
 ## Available Scripts
-- **`npm run dev`**: Runs both the frontend and backend in development mode.
-- **`npm run build`**: Builds the frontend for production.
-- **`npm run start`**: Starts the server in production mode after building the frontend.
-- **`npm run test`**: Runs tests, if any.
+- **`yarn dev`**: Runs both the frontend and backend in development mode.
+- **`yarn build`**: Builds the frontend for production.
+- **`yarn start`**: Starts the server in production mode after building the frontend.
+- **`yarn test`**: Runs tests, if any.
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or bug fixes.
