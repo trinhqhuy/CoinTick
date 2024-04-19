@@ -19,15 +19,18 @@ To get started with this project, follow these steps:
 
 2. **Install Dependencies:**
    ```
-   npm install
+   yarn
    ```
 
 3. **Run the Development Server:**
    ```
-   npm run dev
+   yarn start
    ```
-
-4. **Open your browser and visit:**
+4. **Run the Development Client:**
+   ```
+   yarn run dev
+   ```
+5. **Open your browser and visit:**
    ```
    http://localhost:3000
    ```
